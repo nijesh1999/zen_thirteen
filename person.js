@@ -9,10 +9,10 @@ function Person() {
 }
 
 var person1 = new Person();
-person1.firstName = "G";
-person1.lastName = "Gowthaman";
-person1.age = "24";
-person1.height = "5.10";
+person1.firstName = "R";
+person1.lastName = "Nijesh";
+person1.age = "23";
+person1.height = "5.5";
 
 alert(person1.getFullName());
 console.log(person1.firstName);
@@ -21,10 +21,10 @@ console.log(person1.age);
 console.log(person1.height);
 
 var person2 = new Person();
-person2.firstName = "A";
-person2.lastName = "kiran";
-person2.age = "28";
-person2.height = "7";
+person2.firstName = "V";
+person2.lastName = "Aravind";
+person2.age = "21";
+person2.height = "6";
 alert(person2.getFullName());
 console.log(person2.firstName);
 console.log(person2.lastName);
